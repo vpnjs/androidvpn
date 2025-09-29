@@ -126,7 +126,7 @@
 
 ### 安卓VPN（一）：<a href="https://fastexp.net/?source=github|androidvpn" rel="nofollow">ExpressVPN - 翻墙最稳定，速度最快，安全性高，30天免费</a>
 
-![ExpressVPN Banner：安卓翻墙，安卓VPN推荐](https://raw.githubusercontent.com/chinavpns/androidvpn.github.io/main/image/ExpressVPN-Android-VPN.jpg)
+![ExpressVPN Banner：安卓翻墙，安卓VPN推荐](https://vpnjs.github.io/vpnassets/img/ExpressVPN-Android-VPN.jpg)
 
 ### 为何中国用户优先选择 **ExpressVPN 手机VPN（安卓）**
 
@@ -160,7 +160,7 @@
 
 ### 安卓VPN（二）：<a href="https://fastpure.net/?source=github|androidvpn" rel="nofollow">PureVPN - 老牌VPN，价格便宜，2.11美金/月</a>
 
-![PureVPN Banner：安卓翻墙，安卓VPN推荐](https://raw.githubusercontent.com/chinavpns/androidvpn.github.io/main/image/PureVPN-Android-VPN.jpg)
+![PureVPN Banner：安卓翻墙，安卓VPN推荐](https://vpnjs.github.io/vpnassets/img/PureVPN-Android-VPN.jpg)
 
 ### 为何选择 **PureVPN 手机VPN（安卓）**：高性价比、节点广、易上手
 
@@ -204,7 +204,7 @@
 
 ### 安卓VPN（三）：<a href="https://fastsurf-shark.com/?source=github|androidvpn" rel="nofollow">Surfshark - 不限制设备数，性价比高</a>
 
-![Surfshark Banner：安卓翻墙，安卓VPN推荐](https://raw.githubusercontent.com/chinavpns/androidvpn.github.io/main/image/Surfshark-Android-VPN.jpg)
+![Surfshark Banner：安卓翻墙，安卓VPN推荐](https://vpnjs.github.io/vpnassets/img/Surfshark-Android-VPN.jpg)
 
 ### Surfshark **手机VPN（安卓）**：无限设备连接、隐私功能强，日常使用性价比高
 
@@ -232,7 +232,7 @@
 
 ### 安卓VPN（四）：<a href="https://fastnord.net/?source=github|androidvpn" rel="nofollow">NordVPN - 功能强大，安全性高</a>
 
-![NordVPN Banner：安卓翻墙，安卓VPN推荐](https://raw.githubusercontent.com/chinavpns/androidvpn.github.io/main/image/NordVPN-Android-VPN.jpg)
+![NordVPN Banner：安卓翻墙，安卓VPN推荐](https://vpnjs.github.io/vpnassets/img/NordVPN-Android-VPN.jpg)
 
 ### NordVPN **手机VPN（安卓）**：安全功能强大，但在中国需手动配置
 
