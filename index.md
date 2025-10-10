@@ -1,4 +1,4 @@
-# <p align="center">安卓翻墙教程：2025年最好用的安卓VPN推荐</p>
+# 安卓翻墙教程：2025年最好用的安卓VPN推荐
 
 <p align="center">最近更新于：2025年9月18日</p>
 
@@ -154,7 +154,7 @@
 
 > **结论**：从安全与隐私、全球节点覆盖、速度稳定性到安卓端易用性与售后保障，**ExpressVPN 手机VPN** 在中国用户的典型使用场景中表现全面、体验稳健。如果你希望长期可用、上手无忧的 **安卓手机VPN**，ExpressVPN 值得优先选择。
 
-**<p align="center"><a href="https://fastexp.net/?source=github|androidvpn" rel="nofollow">立即获取ExpressVPN（30天免费）</a></p>**
+**<a href="https://fastexp.net/?source=github|androidvpn" rel="nofollow">立即获取ExpressVPN（30天免费）</a>**
 
 ****
 
@@ -198,7 +198,7 @@
 > **小结**：综合“价格—节点—安全—易用—售后”，**PureVPN 手机VPN** 是 2025 年值得关注的高性价比之选。若你想在安卓上获得稳定、功能全面且预算友好的翻墙体验，PureVPN 是一款值得尝试的 **安卓手机VPN**。
 
 
-**<p align="center"><a href="https://fastpure.net/?source=github|androidvpn" rel="nofollow">立即获取PureVPN</a></p>**
+**<a href="https://fastpure.net/?source=github|androidvpn" rel="nofollow">立即获取PureVPN</a>**
 
 ****
 
@@ -226,7 +226,7 @@
 
 > **结论**：综合“隐私功能（AES-256 / 无日志 / CleanWeb / MultiHop）—无限设备—全球节点—安卓易用性—价格与客服”，Surfshark 是 2025 年值得关注的安卓 **手机VPN**。若你的主要使用窗口在非敏感时期、且需要一款**经济实惠且功能全面**的方案，Surfshark 会是高性价比之选；敏感时段建议准备备用线路以提升成功率与稳定性。
 
-**<p align="center"><a href="https://fastsurf-shark.com/?source=github|androidvpn" rel="nofollow">立即获取Surfshark</a></p>**
+**<a href="https://fastsurf-shark.com/?source=github|androidvpn" rel="nofollow">立即获取Surfshark</a>**
 
 ****
 
@@ -263,7 +263,7 @@
 > **结论**：如果你能按文档完成中国区的**手动配置**，NordVPN 依然是安全功能最全、隐私保护最强势的 **手机VPN（安卓）** 之一；  
 > 若更看重“开箱即用、敏感期可用性与长期稳定”，建议优先考虑上手更简单的方案（如 ExpressVPN）再以 NordVPN 作为进阶或备用线路。
 
-**<p align="center"><a href="https://fastnord.net/?source=github|androidvpn" rel="nofollow">立即获取NordVPN</a></p>**
+**<a href="https://fastnord.net/?source=github|androidvpn" rel="nofollow">立即获取NordVPN</a>**
 
 ## 中国用户如何正确使用安卓VPN？
 
